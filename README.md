@@ -1,2 +1,6 @@
 # GeometrySolver
-📐 This calculator helps you easily calculate the area of various shapes with simple and friendly input!
+
+## Features:
+- Calculates the area of shapes like Square, Rectangle, Triangle, Circle, and more.
+- User-friendly and easy-to-use interface.
+- No external dependencies required.
